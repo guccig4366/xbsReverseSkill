@@ -1,0 +1,18 @@
+{
+  "webrtc": {
+    "allowCandidateLeak": false,
+    "iceTransportPolicy": "all",
+    "bundlePolicy": "balanced",
+    "rtcpMuxPolicy": "require",
+    "defaultOfferSdp": "v=0\r\no=- 0 0 IN IP4 127.0.0.1\r\ns=env-codex-offer\r\nt=0 0\r\n",
+    "defaultAnswerSdp": "v=0\r\no=- 0 0 IN IP4 127.0.0.1\r\ns=env-codex-answer\r\nt=0 0\r\n",
+    "iceCandidates": [
+      {
+        "candidate": "candidate:842163049 1 udp 1677729535 0.0.0.0 9 typ host generation 0 ufrag env network-id 1",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0,
+        "usernameFragment": "env"
+      }
+    ]
+  }
+}

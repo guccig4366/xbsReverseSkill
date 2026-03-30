@@ -1,0 +1,41 @@
+{
+  "sessionName": "chrome-win-sample",
+  "navigator": {
+    "platform": "Win32",
+    "language": "zh-CN",
+    "languages": ["zh-CN", "zh", "en-US", "en"],
+    "vendor": "Google Inc.",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 0,
+    "webdriver": false
+  },
+  "screen": {
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1890,
+    "availHeight": 1030,
+    "colorDepth": 24,
+    "pixelDepth": 24
+  },
+  "windowMetrics": {
+    "innerWidth": 1914,
+    "innerHeight": 930,
+    "outerWidth": 1914,
+    "outerHeight": 1050,
+    "devicePixelRatio": 1
+  },
+  "fingerprint": {
+    "canvas2dDataUrl": "data:image/png;base64,PLACEHOLDER_CANVAS_2D",
+    "canvasWebglDataUrl": "data:image/png;base64,PLACEHOLDER_CANVAS_WEBGL",
+    "webglVendor": "Google Inc. (Intel)",
+    "webglRenderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "battery": {
+    "charging": true,
+    "chargingTime": 0,
+    "dischargingTime": "Infinity",
+    "level": 0.97
+  }
+}

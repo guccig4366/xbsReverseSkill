@@ -1,0 +1,10 @@
+{
+  "cookie": "sid=example_sid; device_id=example_device",
+  "localStorage": {
+    "device_id": "example_device",
+    "user_prefs": "{\"lang\":\"zh-CN\"}"
+  },
+  "sessionStorage": {
+    "csrf_token": "example_csrf"
+  }
+}

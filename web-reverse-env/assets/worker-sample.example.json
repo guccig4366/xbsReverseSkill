@@ -1,0 +1,14 @@
+{
+  "worker": {
+    "scriptBaseUrl": "https://example.invalid/assets/",
+    "sharedWorkerName": "env-shared-worker",
+    "broadcastChannels": [
+      "env-sync",
+      "risk-channel"
+    ],
+    "inlineScripts": {
+      "/worker.js": "self.onmessage = function (event) { self.postMessage({ echo: event.data }); };",
+      "/shared.js": "onconnect = function (event) { var port = event.ports[0]; port.start(); };"
+    }
+  }
+}

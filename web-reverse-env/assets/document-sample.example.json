@@ -1,0 +1,43 @@
+{
+  "document": {
+    "URL": "https://example.invalid/path/index.html?scene=env",
+    "referrer": "https://www.google.com/",
+    "documentURI": "https://example.invalid/path/index.html?scene=env",
+    "compatMode": "CSS1Compat",
+    "dir": "",
+    "title": "env-codex sample",
+    "designMode": "off",
+    "readyState": "complete",
+    "contentType": "text/html",
+    "inputEncoding": "UTF-8",
+    "domain": "example.invalid",
+    "characterSet": "UTF-8",
+    "charset": "UTF-8",
+    "hidden": false,
+    "visibilityState": "visible",
+    "cookie": "sid=example_sid; device_id=example_device"
+  },
+  "queryMap": {
+    "#captcha": "div",
+    ".token-input": "input",
+    "meta[name=\"viewport\"]": "meta"
+  },
+  "ids": {
+    "captcha-root": "div",
+    "token-input": "input"
+  },
+  "tags": {
+    "meta": [
+      "meta"
+    ],
+    "script": [
+      "script"
+    ],
+    "canvas": [
+      "canvas"
+    ]
+  },
+  "specialCases": {
+    "documentAllMode": "fallback"
+  }
+}

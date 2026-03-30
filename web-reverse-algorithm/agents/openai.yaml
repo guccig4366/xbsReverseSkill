@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web 逆向纯算"
+  short_description: "面向纯算、验证码与 JSVMP 的中文工作流技能"
+  default_prompt: "Use $web-reverse-algorithm to 规划目标站点的纯算路径、检查点、训练路线与工程化落地。"
+
+policy:
+  allow_implicit_invocation: true

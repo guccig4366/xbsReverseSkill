@@ -1,0 +1,28 @@
+{
+  "crypto": {
+    "exposeCrypto": true,
+    "installMsCrypto": true,
+    "maxGetRandomValuesLength": 65536,
+    "hasSubtle": true,
+    "subtleMethods": [
+      "digest",
+      "generateKey",
+      "importKey",
+      "exportKey",
+      "sign",
+      "verify",
+      "encrypt",
+      "decrypt"
+    ],
+    "randomValues": [
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119,
+      136
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web逆向补环境"
+  short_description: "面向JS逆向补环境的中文技能，涵盖Proxy吐环境、原型链、native保护、指纹与高强度检测模块。"
+  default_prompt: "使用这个技能分析并构建浏览器补环境，优先结合references和scripts完成模块化补环境与诊断。"

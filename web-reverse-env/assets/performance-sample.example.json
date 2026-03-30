@@ -1,0 +1,30 @@
+{
+  "performance": {
+    "timeOrigin": 1711957200000,
+    "navigationStart": 1711957200000,
+    "nowOffset": 12.345,
+    "timing": {
+      "navigationStart": 1711957200000,
+      "fetchStart": 1711957200000,
+      "domainLookupStart": 1711957200001,
+      "domainLookupEnd": 1711957200002,
+      "connectStart": 1711957200002,
+      "connectEnd": 1711957200004,
+      "requestStart": 1711957200005,
+      "responseStart": 1711957200009,
+      "responseEnd": 1711957200013,
+      "domLoading": 1711957200015,
+      "domInteractive": 1711957200020,
+      "domContentLoadedEventStart": 1711957200021,
+      "domContentLoadedEventEnd": 1711957200022,
+      "domComplete": 1711957200027,
+      "loadEventStart": 1711957200028,
+      "loadEventEnd": 1711957200029
+    },
+    "memory": {
+      "totalJSHeapSize": 52428800,
+      "usedJSHeapSize": 24117248,
+      "jsHeapSizeLimit": 4294705152
+    }
+  }
+}
